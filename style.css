@@ -112,6 +112,10 @@ img.icon {
   font-weight: 700;
 }
 
+.sidebar img {
+  filter: brightness(0) invert(1);
+}
+
 .sidebar-li {
   padding-bottom: 1.5rem;
 }
